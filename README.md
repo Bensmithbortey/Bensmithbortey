@@ -6,7 +6,7 @@ Hello!👋🏻 My name is **Benjamin-Smith JNR Bortey**. I am from King's Colleg
 
 I have a huge interest in Mobile Applications Development (iOS, Android & Cross Platform), Web Development (Fullstack, Wordpress & Webflow) and Sofware Developoment 👩‍💻! Currently studying ⚛️React js, Swift, SwiftUi, Webflow and being a succesful developer.
 
-Currently BlackBerry Developer Ambassador.
+I am an Apple WWDC 2016 Student Scholar and previously I was BlackBerry Developer Ambassador.
 
 I love to join different community and competition that involve creating something for the society! 🙋
 
